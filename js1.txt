@@ -1,0 +1,52 @@
+hola mundo"
+"hola mundo"
+var nombre = "Eduardo"
+undefined
+nombre
+"Eduardo"
+var apellido = "Barajas"
+undefined
+apellido
+"Barajas"
+nombre.leng
+undefined
+nombre.length
+7
+nombre.toUpperCase()
+"EDUARDO"
+apellido.toUpperCase()
+"BARAJAS"
+var nu = 5
+undefined
+nu
+5
+parseInt("123")
+123
+2+3
+5
+3*3
+9
+40/10
+4
+12%5
+2
+"Hola"+" Andres"+" Zepeda"
+"Hola Andres Zepeda"
+var bol = true
+undefined
+if (3>2){
+  console.log("Estoy Feliz")
+}
+Estoy Feliz debugger eval code:2:11
+undefined
+if (3>5){
+  console.log("Estoy Feliz")
+} else{
+  console.log("no estoy feliz")
+}
+no estoy feliz                debugger eval code:4:11
+undefined
+
+clase42
+​
+
